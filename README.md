@@ -28,4 +28,4 @@ Home → search (e.g. Electrician) → provider list → provider details → ma
 
 17 providers in Bhilai: Electrician, Mechanic, Plumber, Laptop Repair, AC Repair, Carpenter.
 
-No login, payments, chat, or booking in this MVP.
+No login, payments, chat, or booking.
