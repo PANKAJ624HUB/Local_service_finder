@@ -1,6 +1,6 @@
 # Local Service Finder
 
-CyberTrace hackathon MVP. Search a service, pick a local provider, see price and map, then call them.
+Search a service, pick a local provider, see price and map, then call them.
 
 ## Stack
 
